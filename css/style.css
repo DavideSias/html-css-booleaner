@@ -1,0 +1,12 @@
+.logo{
+    height: 180px;
+    width: 100%;
+    background-color: rgb(30, 124, 187);
+    background-image: url(../img/pattern.png);
+}
+
+.the-booleaner{
+    width: 15%;
+    margin-top: 80px; 
+    margin-left: 10px; 
+}
