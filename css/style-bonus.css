@@ -1,6 +1,12 @@
 *{
     box-sizing: border-box;
   }
+
+.container{
+    width: 1500px;
+    margin: auto;
+}
+
 .logo{
     height: 180px;
     width: 100%;
@@ -11,7 +17,7 @@
 .the-booleaner{
     width: 15%;
     margin-top: 80px; 
-    margin-left: 10px; 
+    margin-left: 190px; 
 }
 
 h1{
