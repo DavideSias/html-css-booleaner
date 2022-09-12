@@ -23,6 +23,33 @@
     padding: 15px;
 }
 
+table{
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    color: white;
+}
+
+td{
+    padding: 10px;
+    padding-left: 0;
+}
+
+.lorem-big{
+    width: 50%;
+    padding: 0;
+}
+
+.dark-blue{
+    background-color: rgb(32, 169, 229);
+}
+
+.light-blue{
+    background-color: rgb(177, 229, 242);
+}
+
 .banner-top{
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
