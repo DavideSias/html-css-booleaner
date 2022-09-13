@@ -2,22 +2,27 @@
     box-sizing: border-box;
   }
 
+body{
+    margin: 0;
+}
+
 .container{
     width: 1300px;
     margin: auto;
 }
 
 .logo{
-    height: 180px;
+    height: 100px;
     width: 100%;
     background-color: rgb(78, 160, 255);
     background-image: url(../img/pattern.png);
+    background-size: 20%;
 }
 
 .the-booleaner{
-    width: 15%;
-    margin-top: 80px; 
-    margin-left: 290px; 
+    width: 10%;
+    margin-top: 50px; 
+    margin-left: 300px; 
 }
 
 h1{
